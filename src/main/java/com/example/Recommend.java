@@ -1,4 +1,4 @@
-package one.digitalinnovation;
+package com.example;
 
 import org.apache.mahout.cf.taste.impl.model.file.FileDataModel;
 import org.apache.mahout.cf.taste.model.DataModel;
